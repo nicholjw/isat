@@ -1,0 +1,16 @@
+h1 {
+	text-align:center;
+	color: #EACC57;
+	font-family: sans-serif; 
+	font-size: 58px;
+	font-style: italic;
+}
+
+body {
+	background-color: #5D0B66;
+}
+
+div{
+	color:#EACC57;
+	font-style: oblique;
+}
