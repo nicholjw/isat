@@ -1,17 +1,21 @@
-body{
-	background-color: #5D0B66;
+body {
+	  background-color: #5D0B66;
 }
-table{
-	color: #EACC57;
-	width: 100%;
-	height:100%;
-	text-align:center;
-	font-size: 36px;
-	vertical-align: center;
+table {
+	   color: #EACC57;
+	   width: 100%;
+	   height:100%;
+	   text-align:center;
+	   font-size: 36px;
+	   vertical-align: center;
 }
-td{
+td {
 	width:500px;
 }
 table, th, td {
 	border: 2px solid gold;
+	text-shadow: 3px 3px black;
+}
+#day, #time, #room {
+	text-decoration: underline;
 }
