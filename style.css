@@ -16,24 +16,31 @@ div {
 	font-style: oblique;
 }
 a:link {color: #EACC57; /*unvisited link*/
-		text-decoration: none; /*removes underline*/
+	text-decoration: none; /*removes underline*/
 }
-a:visited{
+a:visited {
 	color: #EACC57; /*visited link*/
 	text-decoration: none;
 }
-a:hover{
+a:hover {
 	color: yellow; /*mouse over link*/
 	text-decoration: underline; /*adds underline*/
 }
-a:active{
+a:active {
 	color: blue; /*selected link*/
 	text-decoration: underline;
 }
-#email{
+#tutor {
+	text-shadow: 2px 2px black;
+}
+#schedule {
+	text-shadow: 2px 2px black;
+}
+#email {
 	text-align: center;
 	position:absolute;
 	bottom: 0;
 	left:40%;
 	margin-left:-125;
+	text-shadow: 2px 2px black;
 }
