@@ -3,6 +3,15 @@ body{
 }
 table{
 	color: #EACC57;
-	width: 250px;
-	height:250px;
+	width: 100%;
+	height:100%;
+	text-align:center;
+	font-size: 36px;
+	vertical-align: center;
+}
+td{
+	width:500px;
+}
+table, th, td {
+	border: 2px solid gold;
 }
