@@ -44,3 +44,18 @@ a:active {
 	margin-left:-125;
 	text-shadow: 2px 2px black;
 }
+#social {
+	height: 80px;
+	width: 100px;
+	border: 2px solid blue;
+	border-radius: 15px;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	color: #0033ff;
+	background-color: #e0e0e0;
+}
+#fb {
+	height: 30px;
+	width: 20px;
+}
